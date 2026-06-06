@@ -60,6 +60,8 @@ The website showcases a curated collection of premium Chinese and Japanese teas 
 ---
 
 ## Project Structure
+
+```
 project/
 │
 ├── teastore.html
@@ -67,12 +69,13 @@ project/
 ├── teastore.js
 │
 └── img/
-├── Bai-Mu-Dan-White-Peony.jpg
-├── Gaba-Oolong.jpg
-├── Sheng-Puer.jpg
-├── Matcha.jpg
-├── Gyokuro.jpg
-└── ...
+    ├── Bai-Mu-Dan-White-Peony.jpg
+    ├── Gaba-Oolong.jpg
+    ├── Sheng-Puer.jpg
+    ├── Matcha.jpg
+    ├── Gyokuro.jpg
+    └── ...
+```
 
 ---
 
