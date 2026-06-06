@@ -22,29 +22,29 @@ The website showcases a curated collection of premium Chinese and Japanese teas 
 
 ## Features
 
-### 🏠 Hero Section
+###  Hero Section
 - Full-screen banner  
 - Background image with overlay  
 - Call-to-action button  
 - Navigation menu  
 
-### 🍵 Tea Catalog
+###  Tea Catalog
 - Chinese tea collection  
 - Japanese tea collection  
 - Product cards with images, descriptions, and prices  
 - Horizontal slider navigation  
 
-### 🎁 Promotional Section
+###  Promotional Section
 - Special discount offer  
 - Call-to-action button  
 - Custom background image  
 
-### 📌 Footer
+###  Footer
 - Company information  
 - Navigation links  
 - Social media links  
 
-### ✨ Animations
+###  Animations
 - Hover effects on buttons  
 - Hover effects on tea cards  
 - Smooth transitions  
